@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/patricioreguera/todoapp.git/static/css/main.82a4d25c.css",
+    "main.js": "/patricioreguera/todoapp.git/static/js/main.4025bf16.js",
+    "index.html": "/patricioreguera/todoapp.git/index.html",
+    "main.82a4d25c.css.map": "/patricioreguera/todoapp.git/static/css/main.82a4d25c.css.map",
+    "main.4025bf16.js.map": "/patricioreguera/todoapp.git/static/js/main.4025bf16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82a4d25c.css",
+    "static/js/main.4025bf16.js"
+  ]
+}
